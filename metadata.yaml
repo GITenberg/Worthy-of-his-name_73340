@@ -1,0 +1,27 @@
+_repo: Worthy-of-his-name_73340
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thorne, Eglanton
+    alias: Charlton, Elizabeth Emily
+    birthdate: 1852
+    deathdate: 1907
+    gutenberg_agent_id: '56000'
+    url: http://www.gutenberg.org/2009/agents/56000
+description: ''
+gutenberg_issued: '2024-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73340'
+language: en
+pgterms:marc905: 20240322135957thorne
+pgterms:marc906: '1892'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bThe Religious Tract Society, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Worthy of his name
+url: http://www.gutenberg.org/ebooks/73340
